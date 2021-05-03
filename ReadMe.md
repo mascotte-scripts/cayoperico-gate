@@ -1,6 +1,10 @@
-## Introduction
+# Introduction
 
 This is a very basic ymap that removes the exterior and interior gates at the large villa on Cayo Perico making it accessible by foot & vehicle - replacing it with a steel security gate.
+
+## Requirements
+
+- Cayo Perico Map
 
 
 ## Installation
