@@ -23,4 +23,4 @@ folder to the stream folder of the Island to prevent any issues with duplicate p
 ### Step 3
 
 All done. This isn't by any means pretty or something that was made with a lot of effort, as such it won't be updated, ever. If you wish to use a different exterior or whatever, then 
-follow one of the many tutorials on youtube on how to use [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map), the tool which was used to make this mod.
+follow one of the many tutorials on youtube on how to use [Codewalker](https://www.gta5-mods.com/tools/codewalker-gtav-interactive-3d-map), the tool which was used to make this ymap.
