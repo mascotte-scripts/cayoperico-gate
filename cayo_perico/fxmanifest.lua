@@ -2,7 +2,7 @@
 fx_version 'cerulean'
 games { 'rdr3', 'gta5' }
 
-author 'Jon Doe'
+author 'Mascotte45'
 description 'Remove static gates at the Cayo Perico villa'
 version '1.0.0'
 
